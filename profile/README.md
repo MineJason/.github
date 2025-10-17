@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Chat on Gitter](https://img.shields.io/badge/gitter-purple?style=flat-square&logo=gitter)](https://matrix.to/#/#minejason:gitter.im)
+
 The MineJason project aims to create .NET libraries for common client formats used by Minecraft: Java Edition.
 
 ## Projects
